@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Humble advice: or The heads of those things which were offered to many Honourable Members of Parliament by Mr Richard Baxter at the end of his sermon, Decemb. 24. at the Abby in Westminster. With some additions as they were delivered by him to a friend that desired them, who thought meet to make them publick.</title>
+            <author>Baxter, Richard, 1615-1691.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76180</idno><idno type="EEBO-CITATION">99866695</idno>
+  <idno type="VID">168023</idno>
+  <idno type="EEBO-PROQUEST">2248516934</idno>
+  
+            <idno type="STC">Wing B1284</idno>
+            <idno type="STC">Thomason E684_13</idno>
+            <idno type="STC">ESTC R207657</idno>
+            <idno type="PROQUEST">99866695</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866695e"/>
+            <note>(EEBO-TCP ; phase 2, no. A76180)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168023)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 125:E821[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Humble advice: or The heads of those things which were offered to many Honourable Members of Parliament by Mr Richard Baxter at the end of his sermon, Decemb. 24. at the Abby in Westminster. With some additions as they were delivered by him to a friend that desired them, who thought meet to make them publick.</title>
+                  <author>Baxter, Richard, 1615-1691.</author>
+               </titleStmt>
+               <extent>[4], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Underhill and Francis Tyton,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf is blank.</note>
+                  <note>Annotations on Thomason copy: "Jan. 2nd"; the second '5' in the imprint has been crossed out and replaced with a "4".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168023:1"/>
+            <p>Humble Advice: OR THE HEADS OF Those things which were offered to many Honourable Members of PARLIAMENT BY M<seg rend="sup">r</seg>
+               <hi>RICHARD BAXTER</hi> at the end of his SERMON, <hi>Decemb. 24.</hi> at the <hi>Abby</hi> in <hi>Westminster.</hi>
+            </p>
+            <p>With some Additions as they were delivered by him to a Friend that desired them, who thought meet to make them publick.</p>
+            <figure>
+               <figDesc>seal with anchor</figDesc>
+               <p>ANC HO RA SPEI</p>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Ʋnderhill</hi> and <hi>Francis Tyton,</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168023:2"/>
+            <pb n="1" facs="tcp:168023:2"/>
+            <head>Good Works earnestly desired from this PARLIAMENT FOR THE CHURCH.</head>
+            <p n="1">1. <seg rend="decorInit">P</seg>Erfect that excellent Work resol<g ref="char:EOLhyphen"/>ved on, that All Children be taught to Reade, and that every Family have a Bible.</p>
+            <p n="2">2. Perfect that excellent Work, of enjoyning Catechizing: of which more anon.</p>
+            <p n="3">3. Seeing you have well intended to Enjoyn the Generall use of the Assemblies lesser Ca<g ref="char:EOLhyphen"/>techism,
+<pb n="2" facs="tcp:168023:3"/> put it into the Act of Ejection, that whosoever shall <hi>de industria</hi> after Admonition, Preach or perswade any against any Doctrine contained in that Catechism, shall be Ejected. 1. This is but reasonable: For if Children must Learn it, Learned men and Teachers should not Preach against it. 2. It is not a<g ref="char:EOLhyphen"/>gainst the Instrument in the Articles for Li<g ref="char:EOLhyphen"/>berty of Religion: For it only hinders the <hi>Propagating</hi> of Errours, and not the <hi>holding</hi> or <hi>professing</hi> them, when called thereto. And it only denieth such Propagators the publique Countenance and Maintenance: and not Li<g ref="char:EOLhyphen"/>berty.</p>
+            <p n="4">4. Let no man have Liberty to Preach, Teach or Perswade any against the Essentiall, (Fundamentall) Truths of Christian Belief, in private or publique, though he have not your Maintenance: For it is not our own Gain that we look after, but the safety of mens souls. God forbid you should let men defie Christ, or perswade men to Infidelity, or deny and vi<g ref="char:EOLhyphen"/>lifie Gods Word, <hi>&amp;c.</hi> so they will but▪ do it for nothing: The Pope and Popish persons abroad and at home, will maintain Emissaries enough, to do their work, without your main<g ref="char:EOLhyphen"/>tenance. Thousands might curse you for ever in hell, if you grant such a Liberty to all men to deceive them, and entice them thi<g ref="char:EOLhyphen"/>ther.</p>
+            <p>If you cannot agree to accept those as Fun<g ref="char:EOLhyphen"/>damentals,
+<pb n="3" facs="tcp:168023:3"/> which were given in by the Mini<g ref="char:EOLhyphen"/>sters, you have the two Ancient Creeds of the Church: that of the West, commonly cal<g ref="char:EOLhyphen"/>led the Apostles: and that of the East, called the Nicene, and as now enlarged, the Con<g ref="char:EOLhyphen"/>stantinopolitane. Take these two conjunctively for a Test.</p>
+            <p>Or else leave out any point that is lesse momentous in the foresaid Catechism, and let the rest serve to this use. Should I tell you of the <hi>Profession</hi> of the <hi>Worcestershire</hi> Ministers, you might well think it comes from too pri<g ref="char:EOLhyphen"/>vate hands to be offered you to such a use: but I had rather you used that then none.</p>
+            <p n="5">5. We beseech you fail not, 1. To secure to us by a Law: 2. And to Recommend the free use of Ministeriall Assemblies and Asso<g ref="char:EOLhyphen"/>ciations: which whether necessary or not for Regiment, are certainly so necessary for Unity, that we cannot carry on Gods work in Con<g ref="char:EOLhyphen"/>cord well without them. This most confesse. Deny us not what the Church enjoyed under Heathen Princes, and hath used in the Apo<g ref="char:EOLhyphen"/>stles daies, (<hi>Act. 15, &amp;c.</hi>) and ever since to this day. If you doubt whether we will wrong the State, 1. Our Estates and Lives are in your hand to answer it. 2. Let a Magistrate be present with us as oft as you please to see our course. Yet let it be only the Ministers that are Approved by you, and Own the Fun<g ref="char:EOLhyphen"/>damentall Verities, that have this Freedom.</p>
+            <pb n="4" facs="tcp:168023:4"/>
+            <p>But if you will give it all or none (though I hope better) rather let<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>all</hi> have it, then <hi>none.</hi>
+            </p>
+            <p n="6">6. Let these Approved Associated Ministers have Liberty granted to Ordain others to the Ministeriall Office: (Whether any shall be of the <hi>Quorum,</hi> I meddle not.) And <hi>recommend</hi> Ordination to the Churches, to be sought, when they receive a Pastor. And let none be Admitted to a Pastora<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l Charge, having the Publique Maintenance, that is not Ordained or Approved by Ministers.</p>
+            <p n="7">7. If any Arminians, Antinomians, Ana<g ref="char:EOLhyphen"/>baptists, or the like mistaken ones, think it not enough to hold their Opinions, but they will hold Communion with none that are of a contrary minde, nor admit them to the Lords Supper, though Godly and otherwise fit, let such hold no Pastorall Cure (for Lectures I leave to you) that have the Publique Main<g ref="char:EOLhyphen"/>tenance: Because they will else force all the Godly people that are not of their Opinion, to live without Gods Ordinances and Church-Communion; or at least, to wander for it, to their great discommodity.</p>
+            <p n="8">8. Take not the Works of the Ministry out of their hands, which is, To judge who are the fit subjects of their Administrations in Ba<g ref="char:EOLhyphen"/>ptism, and the Lords▪ Supper and Church-Censures, as to those personall Qualifications, which according to Gods Word are required.
+<pb n="5" facs="tcp:168023:4"/> It is as Essentiall to a Pastor to Rule as to Teach: And as you may not Preach in his stead, so neither may you Ecclesiastically Rule in his stead. Some body must Judge of Church Cases and Persons: and it is fittest for them, whose Office it is. That which you have to do, is to Question and Punish them, for Mal<g ref="char:EOLhyphen"/>administration. If under pretence of judging rightly who are the true subjects of Sacramen<g ref="char:EOLhyphen"/>tall Administrations, they will deny them to All, or exclude the fit Subjects, Punish them for it, according to the quality of the offence.</p>
+            <p n="9">9. Let your Commissioners for Approba<g ref="char:EOLhyphen"/>tion and Ejection, have Power to keep the Peace in the Church, as Justices of Peace have in Civils: or else let Justices look to it. That if any turbulent Mutineers, shall bend their endeavours to Rail at and Reproach their Bre<g ref="char:EOLhyphen"/>thren, or make disturbances, they may be re<g ref="char:EOLhyphen"/>strained.</p>
+            <p n="10">10. Let the Publique <hi>Places,</hi> as well as <hi>Main<g ref="char:EOLhyphen"/>tenance,</hi> be only for the Approved Ministers, and none have leave to Preach in those Places, (called Churches) without the Ministers Con<g ref="char:EOLhyphen"/>sent.</p>
+            <p n="11">11. Let all that have Tolerated Meetings, enjoy them only in some known allowed place, where the doors shall be as open to any, at Sermon time, as ours are to them, lest they se<g ref="char:EOLhyphen"/>cretly sow the seeds of Rebellion.</p>
+            <p n="12">
+               <pb n="6" facs="tcp:168023:5"/>12. Let the Ministers and Church have the disposall of the Meeting place in time of Sacraments, and of exercise of publique Di<g ref="char:EOLhyphen"/>scipline, that strangers, or wicked persons may not intrude among them at such times, with<g ref="char:EOLhyphen"/>out their Consent, lest they force us to Ce<g ref="char:EOLhyphen"/>lebrate the Lords Supper in private houses.</p>
+            <p n="13">13. Let some be authorized in every Pa<g ref="char:EOLhyphen"/>rish, or near at hand, to dispose of all vacant Seats in Churches, and determine all Contro<g ref="char:EOLhyphen"/>versies thereabout.</p>
+            <p n="14">14. Seeing our common Version of the Psalmes in Meeter is so faulty, that it is not fit to be continued, when Better may be had (in so high a part of Gods Worship, we should serve him with the best:) And those that lay them by do use some one, some a<g ref="char:EOLhyphen"/>nother: when Concord in such a Work, is so desirable among the Churches: We hum<g ref="char:EOLhyphen"/>bly move, that you would Recommend some one of the best unto all Churches in the Land. Might I presume to speak my thoughts, That Version which being first approved of by the late Assembly of Divines, and after very much Corrected and bettered in <hi>Scotland,</hi> and now approved by their Assembly, and used gene<g ref="char:EOLhyphen"/>rally by their Churches, is the best that is extant, and fittest in many respects to be Re<g ref="char:EOLhyphen"/>commended. But if so great a preparation to unanimous reception satisfie not, You may Au<g ref="char:EOLhyphen"/>thorize the Ministers of the Province of <hi>Lon<g ref="char:EOLhyphen"/>don</hi>
+               <pb n="7" facs="tcp:168023:5"/> to appoint a Committee of skilfull men, to draw one Version out of all, or to try and judge of the best that is already extant. We are scarce like to be unanimous without your interposition.</p>
+            <p n="15">15. Have a speciall care of the Revenews and Government of the Universities.</p>
+            <p n="16">16. Lay a penalty on him that Prints or sels any Books against the Fundamentals or Essentials of Christianity; and that slander or reproach Magistracy, Ministry, or Ordinances of Christ. And burn some more of this na<g ref="char:EOLhyphen"/>ture, that you may manifest a disowning them. Specially <hi>Hobbs</hi> his Leviathan.</p>
+            <p n="17">17. Provide a competent Maintenance for the Ministry: Not for their sakes so much as the Peoples: Begin with Cities and Mar<g ref="char:EOLhyphen"/>ket-Towns: Allow a Congregation of two thousand or three thousand souls, more Mini<g ref="char:EOLhyphen"/>sters than one of three hundred or four hundred souls. If Tradesmen, Lawyers, and others that pay not Tithes in most places, were equally assessed, it might help to this, and maintain a Catechist, as followeth.</p>
+            <p n="18">18. Seeing prejudice doth hurry so many souls to perdition, and the common scorning of a Godly life, by the Naturall Enemies to it, is a chief Cause of that prejudice; Might not some Law be made to restrain such scorners in some measure; At least let a Godly life in Generall, and Family-Duties in speciall (in
+<pb n="8" facs="tcp:168023:6"/> Prayer, Praises, and Reading Scripture, in Ca<g ref="char:EOLhyphen"/>techizing) be Recommended by you to the Nation; that so poor souls might have the credit of a Parliament, to set against the credit of a scor<g ref="char:EOLhyphen"/>ner, to cure their prejudice?</p>
+            <p n="19">19. Let those Ministers be ejected as Neg<g ref="char:EOLhyphen"/>ligent, that forbear All exercise of Discipline, as well as they that preach not: that is, who admit notorious wicked livers to Communion, without any Admonition, according to Christs Rule, and permit the Obstinate without any Censure. For such unconscionable man-plea<g ref="char:EOLhyphen"/>sers, taking all wicked people to Sacraments that flie from Discipline out of other Parish<g ref="char:EOLhyphen"/>es, are exceeding hinderers of our Disci<g ref="char:EOLhyphen"/>pline, and deceivers and destroyers of the peoples souls.</p>
+            <p n="20">20. Confirm the good Laws that are alrea<g ref="char:EOLhyphen"/>dy afoot for the Lords-day, and Authorize the Officers to whip those that cannot pay: For a custom of sitting in the stocks, doth but make them contemn it, and harden them to greater wickednesse. The like I move for swearers, drun<g ref="char:EOLhyphen"/>kards, and prohibited Ale-sellers.</p>
+            <div type="part">
+               <head>More particularly concerning the second Head, Of Catechizing.</head>
+               <p n="1">1. I conceive it would be an excellent work, and is Necessary, to Appoint in eve<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Parish in great Towns, or others very Populous, one Cat<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chist, (or more according to the num<g ref="char:EOLhyphen"/>ber of persons) who should performe this work.</p>
+               <p n="2">
+                  <pb n="9" facs="tcp:168023:6"/>2. Let him be chosen by the Minister; or if that be denied, let the Minister Nominate him, and the People consent, and Neigh<g ref="char:EOLhyphen"/>bour-Ministers Judge of exceptions against him.</p>
+               <p n="3">3. Let them be men of competent Abi<g ref="char:EOLhyphen"/>lity, of Godlinesse and upright Conversa<g ref="char:EOLhyphen"/>tions.</p>
+               <p n="4">4. Let his work be, first to teach some Creed containing the Fundamentals, with the Lords-Prayer and ten Commandments; and then the Assemblies shorter Cat<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chisme: or that at first, where people are capable. And so farre as he can▪ to tell them briefly the sense, and enquire how they understand it.</p>
+               <p n="5">5. Let him be tied to spend two hours every day in this work, taking the Families in course, yet labouring most where he findeth most need.</p>
+               <p n="6">6. Let all persons, Rich and poor, young and old, submit to be Catechized by him, under some fit penalty every moneth they shall refuse: except they have a Certificate from the Minister, either that <hi>he</hi> is teaching them, or that they understand the matter already, and then let them be no more constrained to attend and learn it.</p>
+               <p n="7">7. Let him teach no women between the age of twelve and sixty, but in the publick meet<g ref="char:EOLhyphen"/>ing▪ place of the Church: but the rest where shall
+<pb n="10" facs="tcp:168023:7"/> be thought fittest by themselves.</p>
+               <p n="8">8. If any pretend Conscience against learn<g ref="char:EOLhyphen"/>ing the Principles of Religion, they are not to be heard: but if any pretend Conscience against any thing in the Assemblies Catechism, let them before the Minister produce their Reasons: And if they remain unsatisfied, let them have liberty to use M<seg rend="sup">r</seg>
+                  <hi>Perkins</hi> Six Prin<g ref="char:EOLhyphen"/>ciples, or any other which the Neighbour-Ministers shall approve of: If they refuse this, I hope to pay the penal mulct, will not wound their Consciences.</p>
+               <p n="9">9. This must be no hinderance from Ministers doing what of it they can: and in small Parish<g ref="char:EOLhyphen"/>es, the Minister alone may do it: but not in great.</p>
+               <p n="10">10. Let the Catechist be under the Ministers Oversight for Instruction in the work.</p>
+               <p n="11">11. Let a competent Salary (of about twen<g ref="char:EOLhyphen"/>ty pound, or sixteen pound, or twelve pound <hi>per annum</hi>) be allowed to the Catechist for his work. Which may be imposed on the people to pay.</p>
+               <p n="12">12. If he be found unworthy, let the Minister have power to remove him, or who else you think fit.</p>
+               <p>This one work well stablished, will make the name of this Parliament Honourable to all Generations, and may bring many thousand souls to Heaven; and remove most of the
+<pb n="11" facs="tcp:168023:7"/> great scruples about the unfitness of people to be Church-members, or to Communicate, because they are Ignorant. It will exceedingly supply the great defect of more Ministers in great Congrega<g ref="char:EOLhyphen"/>tions: which is the ruine of such places: Many Con<g ref="char:EOLhyphen"/>gregations can maintain a Catechist or two that cannot maintain another Minister. And we have the Example of the Ancient times of the Church, when Catechists were imployed by teaching the Principles, to sit the Converted to be further admitted. In a word, it will be so blessed a work, as the happy fruits of it cannot be conceived, as Experience will ma<g ref="char:EOLhyphen"/>nifest them, if it be faithfully discharged. The Lord encourage them that promote it, and crosse them that crosse it.</p>
+               <closer>
+                  <dateline>
+                     <date>Decemb. 25. 1654.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
